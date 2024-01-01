@@ -1,0 +1,217 @@
+@font-face {
+    font-family: "8bitoperator";
+    src: url(8bitoperator.ttf);
+}
+
+.background {
+    background-color: rgb(185,98,185);
+    background-image: url(pared.png);
+
+}
+
+
+.box{
+    border: 2px solid white;
+    background-color: black;
+    width: 755px;
+    height: 550px;
+    position: relative;
+    top: 50px;
+    left: 290px;
+}
+
+
+/*------------------*/
+
+.fbox{
+    border: 3px solid orange;
+    width: 160px;
+    height: 65px;
+    position: absolute;
+    left: 10px;
+    bottom: 15px;
+}
+
+
+.ftext{
+    color: orange;
+    text-align: center;
+    font: 35px "8bitoperator";
+    position: absolute;
+    left: 30px;
+}
+
+
+.ficon {
+    width: 25px;
+    height: 50px;
+    position: absolute;
+    left: 5px;
+    bottom: 6px;
+    
+}
+
+.fbox:hover{
+    border: 3px solid yellow;
+}
+
+.ftext:hover{
+    color: yellow;
+}
+
+
+
+/*------------------*/
+
+
+.abox{
+    border: 3px solid orange;
+    width: 160px;
+    height: 65px;
+    position: absolute;
+    left: 200px;
+    bottom: 15px;
+}
+
+.atext{
+    color:orange;
+    text-align: center;
+    font: 35px "8bitoperator";
+    position: absolute;
+    top: 1px;
+    left: 75px;
+}
+
+
+.aicon{
+    width: 45px;
+    height: 46px;
+    position: absolute;
+    bottom: 6px;
+    left: 15px;
+}
+
+
+.abox:hover{
+    border: 3px solid yellow;
+}
+
+.atext:hover{
+    color: yellow;
+}
+
+
+/*------------------*/
+
+
+
+
+.Ibox {
+    border: 3px solid orange;
+    width: 160px;
+    height: 65px;
+    position: absolute;
+    left: 390px;
+    bottom: 15px;
+}
+
+.Itext{
+    color: orange;
+    text-align: center;
+    font: 35px "8bitoperator";
+    position: absolute;
+    top: 2px;
+    left: 52px;
+}
+
+.Iicon{
+    width: 38px;
+    position: absolute;
+    bottom: 8px;
+    left: 8px;
+
+
+}
+
+
+.Ibox:hover{
+    border: 3px solid yellow;
+}
+
+.Itext:hover{
+    color: yellow;
+}
+
+
+
+/*------------------*/
+
+
+.mbox {
+    border: 3px solid orange;
+    width: 160px;
+    height: 65px;
+    position: absolute;
+    left: 580px;
+    bottom: 15px;
+
+}
+
+.mtext{
+    color: orange;
+    text-align: center;
+    font: 35px "8bitoperator";
+    position: absolute;
+    top: 2px;
+    left: 19px;
+}
+
+
+.micon{
+    width: 20px;
+    height: 38px;
+    position: absolute;
+    bottom: 9px;
+
+
+}
+
+.mbox:hover{
+    border: 3px solid yellow;
+}
+
+.mtext:hover{
+    color: yellow;
+}
+
+
+
+
+/*------------------*/
+
+.textbox {
+    border: 7px solid white;
+    width: 730px;
+    height: 200px;
+    position: absolute;
+    left: 10px;
+    bottom: 125px;
+
+}
+
+.textB{
+    color: white;
+    font: 25px "8bitoperator";
+    position: absolute;
+    top: 20px;
+
+}
+
+.tori{
+    width: 320px;
+    height: 250px;
+    position: absolute;
+    left: 220px;
+    bottom: 310px;
+
+}
